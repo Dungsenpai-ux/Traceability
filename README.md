@@ -66,8 +66,3 @@ npm start
 - [Truffle Documentation](https://trufflesuite.com/docs/)
 - [Ganache Documentation](https://trufflesuite.com/ganache/)
 - [Solidity Documentation](https://docs.soliditylang.org/)
-
----
-
-**Liên hệ:**  
-Bạn có thể liên hệ chủ dự án qua [GitHub Dungsenpai-ux](https://github.com/Dungsenpai-ux)
